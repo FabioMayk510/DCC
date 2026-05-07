@@ -1,0 +1,28 @@
+{
+ "signatures": [
+  {
+   "keyid": "a918b14997f228864915a27783557bb550e67b048f793d3e7c1341fd82988523",
+   "sig": "968c128fcbc91beaf15328612b1fe45dd9b816d669b65e66934d307b53187813d340e83e710a15033a7f30de72a99268c4cb452b6624bbfed77e082bc5d9e209"
+  }
+ ],
+ "signed": {
+  "_type": "targets",
+  "expires": "2027-05-07T19:50:53Z",
+  "spec_version": "1.0.31",
+  "targets": {
+   "DCC-2.0.0.tar.gz": {
+    "custom": {
+     "tufup": {
+      "required": false
+     },
+     "user": null
+    },
+    "hashes": {
+     "sha256": "76a1532ff817120892adcabf64acdc44eaff59b1d3d2bf0aedf9ab4dae3eb801"
+    },
+    "length": 49782560
+   }
+  },
+  "version": 2
+ }
+}

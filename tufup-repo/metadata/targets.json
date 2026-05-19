@@ -2,26 +2,14 @@
  "signatures": [
   {
    "keyid": "a918b14997f228864915a27783557bb550e67b048f793d3e7c1341fd82988523",
-   "sig": "e3278b4ed0cae9c51efd57947693fb587725a004f7eba817dd20e60542e766074061897627ed93e8f240334f901aa17d7c3af7a8c54b2f0505db5f2e53ad400b"
+   "sig": "d92526ab185bf3e6d222de693255ef972cf750cbe6484e4f9e8565051981e7e8e43dbdb44e78a38928b2b66ef922a3efde4207e1a21a3c3b456be2d34517e501"
   }
  ],
  "signed": {
   "_type": "targets",
-  "expires": "2027-05-19T13:47:37Z",
+  "expires": "2027-05-19T18:57:24Z",
   "spec_version": "1.0.31",
   "targets": {
-   "DCC-2.0.1.tar.gz": {
-    "custom": {
-     "tufup": {
-      "required": false
-     },
-     "user": null
-    },
-    "hashes": {
-     "sha256": "eca2a6bb3cd89a2f27bf7138bbbfb94336bb26d745be334733495d64aa51aa78"
-    },
-    "length": 254520495
-   },
    "DCC-2.0.2.tar.gz": {
     "custom": {
      "tufup": {
@@ -30,11 +18,11 @@
      "user": null
     },
     "hashes": {
-     "sha256": "43601ceac3259f53af094c2b46edbbbd3f9a525efaad93808046cdd2628fef82"
+     "sha256": "d57fbd9376946dc07831d39cfb1ab668644342c2224cff5b47a230bd6a848260"
     },
-    "length": 254520558
+    "length": 254520650
    }
   },
-  "version": 2
+  "version": 1
  }
 }

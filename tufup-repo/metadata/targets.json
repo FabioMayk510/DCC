@@ -2,12 +2,12 @@
  "signatures": [
   {
    "keyid": "a918b14997f228864915a27783557bb550e67b048f793d3e7c1341fd82988523",
-   "sig": "3495dc16307428af0944274cc7731413dc06675433f8a772a1c7cfb194f999606d42a7616d072d76a2475ef138bca32d28470a2b3cb94c8a9878e5dafece9404"
+   "sig": "6bdde7d2f4e775e9a8acea44c4e2c5657a445472971b8cfb313314142e12ad5c1b3a1219827e05c1f1f13a048203da1505711ca2a372ddf6f5f330f46880af0d"
   }
  ],
  "signed": {
   "_type": "targets",
-  "expires": "2027-05-20T11:31:31Z",
+  "expires": "2027-05-21T14:30:58Z",
   "spec_version": "1.0.31",
   "targets": {
    "DCC-2.0.2.tar.gz": {
@@ -18,9 +18,9 @@
      "user": null
     },
     "hashes": {
-     "sha256": "42a941491c9d2329f36af08db58267a34c6086d6b4cd7515a892cf6d9dffd062"
+     "sha256": "c051361caab3f4f463db13fbd52a3b23fbeba1f65857f1880135541a79c6e913"
     },
-    "length": 254520407
+    "length": 255034739
    }
   },
   "version": 1
